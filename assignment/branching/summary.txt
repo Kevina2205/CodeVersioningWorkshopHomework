@@ -1,0 +1,4 @@
+Branching dalam Git adalah cara untuk membuat salinan terpisah dari kode utama, yang memungkinkan developer untuk bekerja pada fitur baru atau memperbaiki bug tanpa mengganggu kode utama.
+Setiap cabang memiliki riwayat perubahannya yang berbeda dan tidak saling terikat sehingga memiliki sistem pengelolaan perubahan secara terpisah.
+Antar cabang satu dan lainnya dapat digabungkan atau merge.
+Branching mempermudah proses bereksperimen dan bekerja kolaboratif tanpa merusak kode asli yang sudah ada, serta memudahkan manajemen versi dan isolasi perubahan tertentu.
