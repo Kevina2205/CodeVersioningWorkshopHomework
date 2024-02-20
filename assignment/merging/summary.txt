@@ -1,0 +1,4 @@
+Setelah dilakukan branching perubahan antar branch dapat digabungkan dengan melakukan merging.
+Merging adalah sistem penggabungan perubahan di satu cabang dengan cabang lainnya.
+Merging akan membandingkan kedua file kemudian secara otomatis menggabungkannya jika tidak ada conflict.
+Bermanfaat untuk melakukan kolaborasi dan meningkatkan efisiensi.
